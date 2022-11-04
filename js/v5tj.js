@@ -1,4 +1,12 @@
 
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?86a279c7fb7f3f6c4c642fc00d331109";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
 (function(){
     var bp = document.createElement('script');
     var curProtocol = window.location.protocol.split(':')[0];
