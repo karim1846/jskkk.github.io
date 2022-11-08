@@ -6,7 +6,7 @@ if (flag) {
 _src = 'https://www.v0p30.com:8063/?agent_code=6342892'
 } else {
 // PC
-_src = 'https://www.irra6.com/?agent_code=6342892'
+_src = 'https://1.zhgxhs.com/'
 }
 document.write('<meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1">');
 var hd = document.head;
